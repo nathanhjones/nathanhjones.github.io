@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>nathanjon.es</title>
+    <link href="http://www.nathanjon.es/feed.xml" rel="self"/>
+    <link href="http://www.nathanjon.es"/>
+    <updated>2015-03-01T16:43:48.062Z</updated>
+    <id>http://www.nathanjon.es</id>
+    <author>
+        <name>Nathan Jones</name>
+        <email>me@nathanjon.es</email>
+    </author>
+
+    
+    <entry>
+        <title>Introducing nathanjon.es</title>
+        <link href="http://www.nathanjon.es/2014/11/02/introducing-the-new-nathanjones/"/>
+        <updated>2014-11-02T19:15:00.000Z</updated>
+        <id>tag:www.nathanjon.es,2014-11-02,/2014/11/02/introducing-the-new-nathanjones/</id>
+        <content type="html"><![CDATA[<p>After a couple of kids, a book, work, more work travel than I&apos;d care to admit and many other excuses; I finally sat down to create my new blog this weekend. I&apos;ve been sitting on nathanjon.es for a little over a year and a new blog just kept getting reprioritized.</p>
+<p>Writing is a very therapeutic exercise for me. The process of writing, especially about technical topics, helps me learn. With this new site, I wanted something that was easy to maintain and allowed me to focus my time on writing. For that reason, I&apos;ve moved from a custom install Wordpress site to a static blog generated using DocPad and hosted on Github Pages. </p>
+<p>As the range of devices in my life has evolved, so has my workflow. I need a writing process that fits my new workflow. That workflow consists heavily of dropbox and markdown. That workflow includes starting a post on my phone with a few bullet points, expanding on those points on my iPad, and ultimately ends with editing and publishing on my laptop.</p>
+<p><em>Note: yes, I know Wordpress supports markdown to some extent. I tried it.</em></p>
+<p>That said, I don&apos;t want this to be a &apos;hate on Wordpress&apos; post. I like Wordpress and, as with all tools, it&apos;s the correct answer in certain scenarios. A personal blog with my workflow just wasn&apos;t a fit in my mind. I say that after having spent quite a bit of time working on a custom theme for this blog.</p>
+<h3 id="thanks">Thanks</h3>
+<p><a href="http://ewal.net">Erv</a> doesn&apos;t know it, but <a href="http://www.ewal.net/2013/10/08/blogging-with-docpad/">he was a huge help</a>. As with writing, I set out to make this project a learning experience. After a bunch of research, I knew I wanted to use DocPad. I knew I wanted a clean looking and mobile friendly theme. His site is the foundation of my site with a few changes and his blog posts and open source work were incredibly helpful.</p>
+<p>I&apos;ve got a bunch of small things to do over the next few weeks. I want to fix how paging works, get a page up to highlight the projects I&apos;m working on, and generally make parts of the site a little more me. I&apos;m also going to slowly migrate my old content. That&apos;s an exercise of determining what is worth the effort to migrate and researching what may already be out there to help with the process. Once I can knock out a few of those tasks, I&apos;ll get the source up and available to anyone interested.</p>
+<h3 id="closing">Closing</h3>
+<p>I&apos;m not going to specify a writing cadence. When I have something interesting to write about, or a problem I want to talk through, I&apos;ll write something. That&apos;s going to largely be driven by what is going on at work, what side projects I&apos;m working on, and what&apos;s happening with the family.</p>
+<p>But, I will be writing more and I am very much looking forward to that.</p>
+]]></content>
+    </entry>
+    
+</feed>
